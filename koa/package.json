@@ -1,0 +1,20 @@
+{
+  "name": "koa_demo",
+  "version": "0.0.1",
+  "description": "learn web service by koa ",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node app.js"
+  },
+  "author": "volcanic",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "koa": "^2.14.2",
+    "koa-bodyparser": "^4.4.1",
+    "koa-router": "^12.0.1",
+    "mime": "3.0.0",
+    "mz": "^2.7.0",
+    "nunjucks": "^3.2.4"
+  }
+}
